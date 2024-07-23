@@ -142,3 +142,4 @@ C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\Api
 C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork\obj\Debug\net8.0\ApiWithUnitOfWork.pdb
 C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork\obj\Debug\net8.0\ApiWithUnitOfWork.genruntimeconfig.cache
 C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork\obj\Debug\net8.0\ref\ApiWithUnitOfWork.dll
+C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork\obj\Debug\net8.0\ApiWithUnitOfWork.sourcelink.json

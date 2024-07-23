@@ -12,3 +12,4 @@ C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\Api
 C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork.Domain\obj\Debug\net8.0\ApiWithUnitOfWork.Domain.pdb
 C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork.Domain\obj\Debug\net8.0\ApiWithUnitOfWork.Domain.genruntimeconfig.cache
 C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork.Domain\obj\Debug\net8.0\ref\ApiWithUnitOfWork.Domain.dll
+C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork.Domain\obj\Debug\net8.0\ApiWithUnitOfWork.Domain.sourcelink.json

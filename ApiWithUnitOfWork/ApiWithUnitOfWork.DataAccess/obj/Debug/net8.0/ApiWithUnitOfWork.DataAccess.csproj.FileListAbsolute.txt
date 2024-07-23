@@ -15,3 +15,4 @@ C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\Api
 C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork.DataAccess\obj\Debug\net8.0\ApiWithUnitOfWork.DataAccess.pdb
 C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork.DataAccess\obj\Debug\net8.0\ApiWithUnitOfWork.DataAccess.genruntimeconfig.cache
 C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork.DataAccess\obj\Debug\net8.0\ref\ApiWithUnitOfWork.DataAccess.dll
+C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork.DataAccess\obj\Debug\net8.0\ApiWithUnitOfWork.DataAccess.sourcelink.json

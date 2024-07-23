@@ -3,48 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\gozde\\OneDrive\\Documents\\GitHub\\ApiWithUnitOfWork\\ApiWithUnitOfWork\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{21F90A09-3D56-45CB-AE12-CA219C6EAB62}|ApiWithUnitOfWork\\ApiWithUnitOfWork.csproj|c:\\users\\gozde\\onedrive\\documents\\github\\apiwithunitofwork\\apiwithunitofwork\\apiwithunitofwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21F90A09-3D56-45CB-AE12-CA219C6EAB62}|ApiWithUnitOfWork\\ApiWithUnitOfWork.csproj|solutionrelative:apiwithunitofwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84946446-FBFB-4CF0-B54D-21338D0DB54C}|ApiWithUnitOfWork.DataAccess\\ApiWithUnitOfWork.DataAccess.csproj|c:\\users\\gozde\\onedrive\\documents\\github\\apiwithunitofwork\\apiwithunitofwork\\apiwithunitofwork.dataaccess\\implemenatation\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84946446-FBFB-4CF0-B54D-21338D0DB54C}|ApiWithUnitOfWork.DataAccess\\ApiWithUnitOfWork.DataAccess.csproj|solutionrelative:apiwithunitofwork.dataaccess\\implemenatation\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B51503E-1169-4678-83E6-F0ABE57D2F41}|ApiWithUnitOfWork.Domain\\ApiWithUnitOfWork.Domain.csproj|c:\\users\\gozde\\onedrive\\documents\\github\\apiwithunitofwork\\apiwithunitofwork\\apiwithunitofwork.domain\\repository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B51503E-1169-4678-83E6-F0ABE57D2F41}|ApiWithUnitOfWork.Domain\\ApiWithUnitOfWork.Domain.csproj|solutionrelative:apiwithunitofwork.domain\\repository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21F90A09-3D56-45CB-AE12-CA219C6EAB62}|ApiWithUnitOfWork\\ApiWithUnitOfWork.csproj|c:\\users\\gozde\\onedrive\\documents\\github\\apiwithunitofwork\\apiwithunitofwork\\apiwithunitofwork\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21F90A09-3D56-45CB-AE12-CA219C6EAB62}|ApiWithUnitOfWork\\ApiWithUnitOfWork.csproj|solutionrelative:apiwithunitofwork\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84946446-FBFB-4CF0-B54D-21338D0DB54C}|ApiWithUnitOfWork.DataAccess\\ApiWithUnitOfWork.DataAccess.csproj|c:\\users\\gozde\\onedrive\\documents\\github\\apiwithunitofwork\\apiwithunitofwork\\apiwithunitofwork.dataaccess\\implemenatation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84946446-FBFB-4CF0-B54D-21338D0DB54C}|ApiWithUnitOfWork.DataAccess\\ApiWithUnitOfWork.DataAccess.csproj|solutionrelative:apiwithunitofwork.dataaccess\\implemenatation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B51503E-1169-4678-83E6-F0ABE57D2F41}|ApiWithUnitOfWork.Domain\\ApiWithUnitOfWork.Domain.csproj|c:\\users\\gozde\\onedrive\\documents\\github\\apiwithunitofwork\\apiwithunitofwork\\apiwithunitofwork.domain\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B51503E-1169-4678-83E6-F0ABE57D2F41}|ApiWithUnitOfWork.Domain\\ApiWithUnitOfWork.Domain.csproj|solutionrelative:apiwithunitofwork.domain\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3B51503E-1169-4678-83E6-F0ABE57D2F41}|ApiWithUnitOfWork.Domain\\ApiWithUnitOfWork.Domain.csproj|c:\\users\\gozde\\onedrive\\documents\\github\\apiwithunitofwork\\apiwithunitofwork\\apiwithunitofwork.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B51503E-1169-4678-83E6-F0ABE57D2F41}|ApiWithUnitOfWork.Domain\\ApiWithUnitOfWork.Domain.csproj|solutionrelative:apiwithunitofwork.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B51503E-1169-4678-83E6-F0ABE57D2F41}|ApiWithUnitOfWork.Domain\\ApiWithUnitOfWork.Domain.csproj|c:\\users\\gozde\\onedrive\\documents\\github\\apiwithunitofwork\\apiwithunitofwork\\apiwithunitofwork.domain\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B51503E-1169-4678-83E6-F0ABE57D2F41}|ApiWithUnitOfWork.Domain\\ApiWithUnitOfWork.Domain.csproj|solutionrelative:apiwithunitofwork.domain\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21F90A09-3D56-45CB-AE12-CA219C6EAB62}|ApiWithUnitOfWork\\ApiWithUnitOfWork.csproj|c:\\users\\gozde\\onedrive\\documents\\github\\apiwithunitofwork\\apiwithunitofwork\\apiwithunitofwork\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21F90A09-3D56-45CB-AE12-CA219C6EAB62}|ApiWithUnitOfWork\\ApiWithUnitOfWork.csproj|solutionrelative:apiwithunitofwork\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21F90A09-3D56-45CB-AE12-CA219C6EAB62}|ApiWithUnitOfWork\\ApiWithUnitOfWork.csproj|c:\\users\\gozde\\onedrive\\documents\\github\\apiwithunitofwork\\apiwithunitofwork\\apiwithunitofwork\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{21F90A09-3D56-45CB-AE12-CA219C6EAB62}|ApiWithUnitOfWork\\ApiWithUnitOfWork.csproj|solutionrelative:apiwithunitofwork\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84946446-FBFB-4CF0-B54D-21338D0DB54C}|ApiWithUnitOfWork.DataAccess\\ApiWithUnitOfWork.DataAccess.csproj|c:\\users\\gozde\\onedrive\\documents\\github\\apiwithunitofwork\\apiwithunitofwork\\apiwithunitofwork.dataaccess\\context\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84946446-FBFB-4CF0-B54D-21338D0DB54C}|ApiWithUnitOfWork.DataAccess\\ApiWithUnitOfWork.DataAccess.csproj|solutionrelative:apiwithunitofwork.dataaccess\\context\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21F90A09-3D56-45CB-AE12-CA219C6EAB62}|ApiWithUnitOfWork\\ApiWithUnitOfWork.csproj|c:\\users\\gozde\\onedrive\\documents\\github\\apiwithunitofwork\\apiwithunitofwork\\apiwithunitofwork\\dtos\\userforregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,162 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\gozde\\OneDrive\\Documents\\GitHub\\ApiWithUnitOfWork\\ApiWithUnitOfWork\\ApiWithUnitOfWork.DataAccess\\Implemenatation\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "ApiWithUnitOfWork.DataAccess\\Implemenatation\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\gozde\\OneDrive\\Documents\\GitHub\\ApiWithUnitOfWork\\ApiWithUnitOfWork\\ApiWithUnitOfWork.DataAccess\\Implemenatation\\GenericRepository.cs",
-              "RelativeToolTip": "ApiWithUnitOfWork.DataAccess\\Implemenatation\\GenericRepository.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAAwEgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T07:54:05.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\gozde\\OneDrive\\Documents\\GitHub\\ApiWithUnitOfWork\\ApiWithUnitOfWork\\ApiWithUnitOfWork.DataAccess\\Implemenatation\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "ApiWithUnitOfWork.DataAccess\\Implemenatation\\UnitOfWork.cs",
-              "ToolTip": "C:\\Users\\gozde\\OneDrive\\Documents\\GitHub\\ApiWithUnitOfWork\\ApiWithUnitOfWork\\ApiWithUnitOfWork.DataAccess\\Implemenatation\\UnitOfWork.cs",
-              "RelativeToolTip": "ApiWithUnitOfWork.DataAccess\\Implemenatation\\UnitOfWork.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T07:50:37.555Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\gozde\\OneDrive\\Documents\\GitHub\\ApiWithUnitOfWork\\ApiWithUnitOfWork\\ApiWithUnitOfWork.Domain\\Repository\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "ApiWithUnitOfWork.Domain\\Repository\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\gozde\\OneDrive\\Documents\\GitHub\\ApiWithUnitOfWork\\ApiWithUnitOfWork\\ApiWithUnitOfWork.Domain\\Repository\\IUserRepository.cs",
-              "RelativeToolTip": "ApiWithUnitOfWork.Domain\\Repository\\IUserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T07:40:44.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\gozde\\OneDrive\\Documents\\GitHub\\ApiWithUnitOfWork\\ApiWithUnitOfWork\\ApiWithUnitOfWork.Domain\\Repository\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "ApiWithUnitOfWork.Domain\\Repository\\IUnitOfWork.cs",
-              "ToolTip": "C:\\Users\\gozde\\OneDrive\\Documents\\GitHub\\ApiWithUnitOfWork\\ApiWithUnitOfWork\\ApiWithUnitOfWork.Domain\\Repository\\IUnitOfWork.cs",
-              "RelativeToolTip": "ApiWithUnitOfWork.Domain\\Repository\\IUnitOfWork.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T07:39:34.337Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\gozde\\OneDrive\\Documents\\GitHub\\ApiWithUnitOfWork\\ApiWithUnitOfWork\\ApiWithUnitOfWork.Domain\\Repository\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "ApiWithUnitOfWork.Domain\\Repository\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\gozde\\OneDrive\\Documents\\GitHub\\ApiWithUnitOfWork\\ApiWithUnitOfWork\\ApiWithUnitOfWork.Domain\\Repository\\IGenericRepository.cs",
-              "RelativeToolTip": "ApiWithUnitOfWork.Domain\\Repository\\IGenericRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T07:38:05.567Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\gozde\\OneDrive\\Documents\\GitHub\\ApiWithUnitOfWork\\ApiWithUnitOfWork\\ApiWithUnitOfWork.Domain\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "ApiWithUnitOfWork.Domain\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\gozde\\OneDrive\\Documents\\GitHub\\ApiWithUnitOfWork\\ApiWithUnitOfWork\\ApiWithUnitOfWork.Domain\\Entities\\User.cs",
-              "RelativeToolTip": "ApiWithUnitOfWork.Domain\\Entities\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T07:28:44.282Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gozde\\OneDrive\\Documents\\GitHub\\ApiWithUnitOfWork\\ApiWithUnitOfWork\\ApiWithUnitOfWork\\Program.cs",
-              "RelativeDocumentMoniker": "ApiWithUnitOfWork\\Program.cs",
-              "ToolTip": "C:\\Users\\gozde\\OneDrive\\Documents\\GitHub\\ApiWithUnitOfWork\\ApiWithUnitOfWork\\ApiWithUnitOfWork\\Program.cs",
-              "RelativeToolTip": "ApiWithUnitOfWork\\Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T07:07:13.09Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\gozde\\OneDrive\\Documents\\GitHub\\ApiWithUnitOfWork\\ApiWithUnitOfWork\\ApiWithUnitOfWork\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "ApiWithUnitOfWork\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\gozde\\OneDrive\\Documents\\GitHub\\ApiWithUnitOfWork\\ApiWithUnitOfWork\\ApiWithUnitOfWork\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "ApiWithUnitOfWork\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAYwC0AAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T07:07:08.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GlobalUsings.cs",
-              "DocumentMoniker": "C:\\Users\\gozde\\OneDrive\\Documents\\GitHub\\ApiWithUnitOfWork\\ApiWithUnitOfWork\\ApiWithUnitOfWork\\GlobalUsings.cs",
-              "RelativeDocumentMoniker": "ApiWithUnitOfWork\\GlobalUsings.cs",
-              "ToolTip": "C:\\Users\\gozde\\OneDrive\\Documents\\GitHub\\ApiWithUnitOfWork\\ApiWithUnitOfWork\\ApiWithUnitOfWork\\GlobalUsings.cs",
-              "RelativeToolTip": "ApiWithUnitOfWork\\GlobalUsings.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T07:13:24.579Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ApiDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\gozde\\OneDrive\\Documents\\GitHub\\ApiWithUnitOfWork\\ApiWithUnitOfWork\\ApiWithUnitOfWork.DataAccess\\Context\\ApiDbContext.cs",
-              "RelativeDocumentMoniker": "ApiWithUnitOfWork.DataAccess\\Context\\ApiDbContext.cs",
-              "ToolTip": "C:\\Users\\gozde\\OneDrive\\Documents\\GitHub\\ApiWithUnitOfWork\\ApiWithUnitOfWork\\ApiWithUnitOfWork.DataAccess\\Context\\ApiDbContext.cs",
-              "RelativeToolTip": "ApiWithUnitOfWork.DataAccess\\Context\\ApiDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABRAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T07:26:32.959Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\gozde\\OneDrive\\Documents\\GitHub\\ApiWithUnitOfWork\\ApiWithUnitOfWork\\ApiWithUnitOfWork\\appsettings.json",
-              "RelativeDocumentMoniker": "ApiWithUnitOfWork\\appsettings.json",
-              "ToolTip": "C:\\Users\\gozde\\OneDrive\\Documents\\GitHub\\ApiWithUnitOfWork\\ApiWithUnitOfWork\\ApiWithUnitOfWork\\appsettings.json",
-              "RelativeToolTip": "ApiWithUnitOfWork\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-23T07:07:26.65Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "UserForRegisterDto.cs",
               "DocumentMoniker": "C:\\Users\\gozde\\OneDrive\\Documents\\GitHub\\ApiWithUnitOfWork\\ApiWithUnitOfWork\\ApiWithUnitOfWork\\Dtos\\UserForRegisterDto.cs",
               "RelativeDocumentMoniker": "ApiWithUnitOfWork\\Dtos\\UserForRegisterDto.cs",
               "ToolTip": "C:\\Users\\gozde\\OneDrive\\Documents\\GitHub\\ApiWithUnitOfWork\\ApiWithUnitOfWork\\ApiWithUnitOfWork\\Dtos\\UserForRegisterDto.cs",
               "RelativeToolTip": "ApiWithUnitOfWork\\Dtos\\UserForRegisterDto.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAABvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T07:21:39.649Z",
+              "WhenOpened": "2024-07-23T10:09:45.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\gozde\\OneDrive\\Documents\\GitHub\\ApiWithUnitOfWork\\ApiWithUnitOfWork\\ApiWithUnitOfWork.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "ApiWithUnitOfWork.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\gozde\\OneDrive\\Documents\\GitHub\\ApiWithUnitOfWork\\ApiWithUnitOfWork\\ApiWithUnitOfWork.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "ApiWithUnitOfWork.Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T08:39:18.657Z",
               "EditorCaption": ""
             }
           ]
