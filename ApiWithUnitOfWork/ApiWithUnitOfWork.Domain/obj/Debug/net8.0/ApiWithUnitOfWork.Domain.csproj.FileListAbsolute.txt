@@ -1,0 +1,14 @@
+C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork.Domain\bin\Debug\net8.0\ApiWithUnitOfWork.Domain.deps.json
+C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork.Domain\bin\Debug\net8.0\ApiWithUnitOfWork.Domain.runtimeconfig.json
+C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork.Domain\bin\Debug\net8.0\ApiWithUnitOfWork.Domain.dll
+C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork.Domain\bin\Debug\net8.0\ApiWithUnitOfWork.Domain.pdb
+C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork.Domain\obj\Debug\net8.0\ApiWithUnitOfWork.Domain.csproj.AssemblyReference.cache
+C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork.Domain\obj\Debug\net8.0\ApiWithUnitOfWork.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork.Domain\obj\Debug\net8.0\ApiWithUnitOfWork.Domain.AssemblyInfoInputs.cache
+C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork.Domain\obj\Debug\net8.0\ApiWithUnitOfWork.Domain.AssemblyInfo.cs
+C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork.Domain\obj\Debug\net8.0\ApiWithUnitOfWork.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork.Domain\obj\Debug\net8.0\ApiWithUnitOfWork.Domain.dll
+C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork.Domain\obj\Debug\net8.0\refint\ApiWithUnitOfWork.Domain.dll
+C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork.Domain\obj\Debug\net8.0\ApiWithUnitOfWork.Domain.pdb
+C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork.Domain\obj\Debug\net8.0\ApiWithUnitOfWork.Domain.genruntimeconfig.cache
+C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork.Domain\obj\Debug\net8.0\ref\ApiWithUnitOfWork.Domain.dll

@@ -1,0 +1,17 @@
+C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork.DataAccess\bin\Debug\net8.0\ApiWithUnitOfWork.DataAccess.deps.json
+C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork.DataAccess\bin\Debug\net8.0\ApiWithUnitOfWork.DataAccess.runtimeconfig.json
+C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork.DataAccess\bin\Debug\net8.0\ApiWithUnitOfWork.DataAccess.dll
+C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork.DataAccess\bin\Debug\net8.0\ApiWithUnitOfWork.DataAccess.pdb
+C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork.DataAccess\bin\Debug\net8.0\ApiWithUnitOfWork.Domain.dll
+C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork.DataAccess\bin\Debug\net8.0\ApiWithUnitOfWork.Domain.pdb
+C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork.DataAccess\obj\Debug\net8.0\ApiWithUnitOfWork.DataAccess.csproj.AssemblyReference.cache
+C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork.DataAccess\obj\Debug\net8.0\ApiWithUnitOfWork.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork.DataAccess\obj\Debug\net8.0\ApiWithUnitOfWork.DataAccess.AssemblyInfoInputs.cache
+C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork.DataAccess\obj\Debug\net8.0\ApiWithUnitOfWork.DataAccess.AssemblyInfo.cs
+C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork.DataAccess\obj\Debug\net8.0\ApiWithUnitOfWork.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork.DataAccess\obj\Debug\net8.0\ApiWithU.3554C640.Up2Date
+C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork.DataAccess\obj\Debug\net8.0\ApiWithUnitOfWork.DataAccess.dll
+C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork.DataAccess\obj\Debug\net8.0\refint\ApiWithUnitOfWork.DataAccess.dll
+C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork.DataAccess\obj\Debug\net8.0\ApiWithUnitOfWork.DataAccess.pdb
+C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork.DataAccess\obj\Debug\net8.0\ApiWithUnitOfWork.DataAccess.genruntimeconfig.cache
+C:\Users\gozde\OneDrive\Documents\GitHub\ApiWithUnitOfWork\ApiWithUnitOfWork\ApiWithUnitOfWork.DataAccess\obj\Debug\net8.0\ref\ApiWithUnitOfWork.DataAccess.dll

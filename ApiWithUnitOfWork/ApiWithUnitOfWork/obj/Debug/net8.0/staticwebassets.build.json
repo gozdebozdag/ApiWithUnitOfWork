@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hS14mP36LoJ+tys1A7qJWqwEzS50SxyKoGewueX4x1E=",
+  "Source": "ApiWithUnitOfWork",
+  "BasePath": "_content/ApiWithUnitOfWork",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
